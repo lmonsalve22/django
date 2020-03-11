@@ -60,6 +60,7 @@
     <None Include="DjangoWebProject62 - FTP.pubxml" />
     <None Include="DjangoWebProject62 - ReadOnly - FTP.pubxml" />
     <None Include="DjangoWebProject62 - Web Deploy1.pubxml" />
+    <None Include="FolderProfile.pubxml" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />
